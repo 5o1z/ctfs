@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  bksec_challenge:
+    build: .
+    container_name: bksec_challenge
+    ports:
+      - "6669:6669"
+    restart: unless-stopped
+    read_only: true  
+    security_opt:
+      - no-new-privileges:true  
+    environment:
+      - SOCAT_TIMEOUT=5
+    networks:
+      - challenge_network
+
+networks:
+  challenge_network:
+    driver: bridge

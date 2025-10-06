@@ -1,0 +1,8 @@
+version: '3'
+services:
+    jail:
+        container_name: cpusimulator
+        build: .
+        ports:
+            - "6666:6666"
+        restart: unless-stopped

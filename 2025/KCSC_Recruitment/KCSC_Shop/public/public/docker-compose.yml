@@ -1,0 +1,8 @@
+version: '3'
+services:
+    jail:
+        container_name: shop 
+        build: .
+        ports:
+            - "6969:6969"
+        restart: unless-stopped

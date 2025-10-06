@@ -1,0 +1,9 @@
+ _ _ # # # # #
+ # # # _ _ _ #
+ # _ _ # # _ #
+ # _ # _ # _ #
+ # _ # # _ _ #
+ # _ _ _ _ # #
+ # # #[_]# # #
+Correct!
+lactf{i_may_or_may_not_have_blatantly_stolen_a_taiji_puzzle_lol}

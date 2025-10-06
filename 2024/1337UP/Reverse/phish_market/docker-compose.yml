@@ -1,0 +1,25 @@
+version: "3.8"
+
+services:
+    mysql:
+        build: ./mysql
+        ports:
+            - "3306:3306"
+        environment:
+            DB_HOST: mysql
+            DB_PORT: 3306
+            MYSQL_DATABASE: phish_market
+            MYSQL_USER: phisher
+            MYSQL_PASSWORD: phisherpass
+            MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+    app:
+        build: ./market
+        ports:
+            - "1336:1336"
+        environment:
+            APP_PORT: 1336
+            DB_HOST: mysql
+            DB_PORT: 3306
+            DB_NAME: phish_market
+            DB_USER: phisher
+            DB_PASSWORD: phisherpass
