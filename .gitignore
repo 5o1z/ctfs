@@ -1,8 +1,2 @@
-.gdbinit
-.vscode/
-
-__pycache__/
-*.pyc
-
-venv/
-.env
+**/.vscode/
+**/.gdbinit
