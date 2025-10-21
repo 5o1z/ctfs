@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What guiding principles must investigative powers respect under the Convention?",
+        "options": [
+            "1. Necessity, proportionality, legality, and human rights safeguards",
+            "2. Collect as much data as possible",
+            "3. Disregard privacy for speed",
+            "4. Follow only international norms"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Which article defines 'illegal access' (unauthorized access)?",
+        "options": [
+            "1. Article 10 - System interference",
+            "2. Article 6 - Illegal access (unauthorized access to an ICT system)",
+            "3. Article 7 - Illegal interception",
+            "4. Article 12 - Computer-related fraud"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "When transferring electronic evidence across borders, what must be observed?",
+        "options": [
+            "1. Chain of custody, integrity, authenticity, and local evidentiary rules",
+            "2. Free public dissemination online",
+            "3. Only a summary is enough",
+            "4. Must translate into all UN languages"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is a 'production order' used for?",
+        "options": [
+            "1. To compel a person or service provider to produce electronic data or subscriber info lawfully held",
+            "2. To authorize real-time interception of communications",
+            "3. To authorize home search",
+            "4. To seize physical property"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What conditions apply to real-time collection of content data (interception)?",
+        "options": [
+            "1. None — it may be done freely",
+            "2. Only verbal request by investigator",
+            "3. Must comply with national law and human rights safeguards",
+            "4. Always notify the target immediately"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "How does the Convention treat extradition?",
+        "options": [
+            "1. Based on existing treaties or reciprocity, following domestic law",
+            "2. Prohibits extradition in all cases",
+            "3. Mandates extradition without legal basis",
+            "4. Only via international courts"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is emphasized by the Convention about handling personal data?",
+        "options": [
+            "1. Investigative measures must include safeguards and use-limitation",
+            "2. Broad data collection is preferable",
+            "3. Privacy is irrelevant",
+            "4. All states must adopt GDPR"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Which refusal ground for MLA is valid under the Convention?",
+        "options": [
+            "1. If the request would seriously affect sovereignty or security",
+            "2. If countries are not neighbors",
+            "3. If the case involves advanced technology",
+            "4. If there is a time zone difference"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "What is the main purpose of expedited disclosure of traffic data?",
+        "options": [
+            "1. To quickly identify routes, origin/destination, and guide jurisdictional decisions",
+            "2. To obtain message contents",
+            "3. To block user accounts",
+            "4. To shut down Internet services"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Does the Convention apply to traditional crimes committed via ICT means?",
+        "options": [
+            "1. Yes, when traditional crimes are executed via ICT systems",
+            "2. Only new cybercrimes",
+            "3. Never to traditional crimes",
+            "4. Only when large financial harm occurs"
+        ],
+        "correct_option": 1
+    }
+]
