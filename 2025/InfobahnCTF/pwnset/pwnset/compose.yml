@@ -1,0 +1,7 @@
+services:
+  pwnset:
+    build: .
+    privileged: true
+    ports:
+      - "4949:1337"
+
